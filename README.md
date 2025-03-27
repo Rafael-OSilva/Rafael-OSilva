@@ -1,6 +1,6 @@
 # Olá, eu sou Rafael Oliveira da Silva! 👋
 
-💻 Desenvolvedor | 🌎 Brasilia (DF), Brasil  
+💻 Desenvolvedor Full steck | 🌎 Brasilia (DF), Brasil  
 📚 Aprendendo: PHP | Front-End | Back-End   
 
 ## 🛠 Tech Stack
