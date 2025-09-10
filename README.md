@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rafael Oliveira Da silva, tenho 21 anos e sou natural de Brasilia DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFECAF. Sou apaixonada por tecnologia e futebol. Atuamente sou desenvolvedor em PHP e MySQL no Eercito Brasileiro, onde desempenho minha função com toal compromentimento e eficiencia.
+Me chamo Rafael Oliveira Da silva, tenho 21 anos e sou natural de Brasilia DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFECAF. Sou apaixonada por tecnologia e futebol. Atuamente trabalho como desenvolvedor WEB utilizando (PHP, HTML, CSS, JS, PYTHON e BANCO de DADOS), no Eercito Brasileiro, Onde desempenho minha função com toal compromentimento e eficiencia.
 
 ---
 
